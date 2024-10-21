@@ -1,1 +1,9 @@
-a
+# Number System, Operators, and If-Else Statements
+
+This folder contains Java programs that focus on fundamental programming concepts such as:
+
+- **Number Systems**: Programs that demonstrate conversions and operations between different number systems (binary, decimal, hexadecimal, etc.).
+- **Operators**: Implementations that cover arithmetic, logical, bitwise, and relational operators, showcasing how they work in various scenarios.
+- **If-Else Condition Statements**: Conditional logic programs using if-else statements, highlighting control flow based on decision-making in Java.
+
+These programs serve as building blocks for understanding essential programming logic and are part of my foundational learning in Java.

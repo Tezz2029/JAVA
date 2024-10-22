@@ -1,0 +1,9 @@
+# Java Methods, While Loop, and Arrays
+
+This folder contains Java programs that demonstrate core concepts related to:
+
+- **Java Methods**: Programs showcasing method creation, overloading, and invocation, focusing on reusable code and modular programming techniques.
+- **While Loop**: Iterative logic using `while` loops, including examples of controlling flow and handling different loop scenarios like infinite and conditional loops.
+- **Arrays**: Implementations of single and multi-dimensional arrays, illustrating array initialization, traversal, manipulation, and common operations like searching and sorting.
+
+These programs form a crucial part of my understanding of iterative structures, data handling, and method-driven design in Java.

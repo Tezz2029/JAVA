@@ -8,7 +8,6 @@ public class IsPrimeNumber {
 
         System.out.print("Enter a Number - ");
         int num = input.nextInt();
-
         int prime = isPrime(num);
     }
 
@@ -22,7 +21,7 @@ public class IsPrimeNumber {
             }
             i++;
         }
-        if(count > 2){
+        if(count >= 2){
             System.out.print("Entered Number is not a Prime Number");
         }else{
             System.out.print("Entered Number is a Prime Number");
